@@ -16,7 +16,8 @@ namespace DVP1
         static void Main(string[] args)
         {
             
-          
+            Menu.MyMenu();
+            
         }
     }
 }
